@@ -1,3 +1,5 @@
+# Developed by Zheng LUO (UZH ID: 21-738-901) at the University of Zurich
+#
 # chess_vis.py
 # define a series of functions to facilitate visualization
 import numpy as np
